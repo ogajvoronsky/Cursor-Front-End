@@ -1,0 +1,5 @@
+unneeded.txt
+node-modules/
+.DS_Store
+Thumbs.db
+

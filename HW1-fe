@@ -1,0 +1,211 @@
+Site: bitrix.ua
+
+Request URL:http://bitrix.ua/
+Request Method:GET
+Status Code:200 OK
+Remote Address:193.93.78.242:80
+
+Response Headers
+Cache-Control:no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection:keep-alive
+Content-Type:text/html; charset=UTF-8
+Date:Wed, 26 Apr 2017 16:36:04 GMT
+Expires:Thu, 19 Nov 1981 08:52:00 GMT
+P3P:policyref="/bitrix/p3p.xml", CP="NON DSP COR CUR ADM DEV PSA PSD OUR UNR BUS UNI COM NAV INT DEM STA"
+Pragma:no-cache
+Server:nginx/1.10.3
+Set-Cookie:PHPSESSID=r242l7h075ebi93oudoha0a2q4; path=/; HttpOnly
+Set-Cookie:BITRIX_SM_GUEST_ID=16124; expires=Sat, 21-Apr-2018 16:36:04 GMT; path=/
+Set-Cookie:BITRIX_SM_LAST_VISIT=26.04.2017+19%3A36%3A04; expires=Sat, 21-Apr-2018 16:36:04 GMT; path=/
+Transfer-Encoding:chunked
+X-Powered-By:PHP/5.3.3
+X-Powered-CMS:Bitrix Site Manager (9d9f7938e46e1e28cfc74a67c1f2b4d7)
+
+
+Request Headers
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, sdch
+Accept-Language:uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2
+Connection:keep-alive
+Host:bitrix.ua
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/53.0.2785.143 Chrome/53.0.2785.143 Safari/537.36
+
+
+Site: cursor.education
+
+Request URL:http://cursor.education/
+Request Method:GET
+Status Code:302 Moved Temporarily
+Remote Address:91.194.250.152:80
+
+Response Headers
+Connection:keep-alive
+Content-Length:0
+Content-Type:text/html
+Date:Wed, 26 Apr 2017 16:44:42 GMT
+Location:http://ukraine.cursor.education/course/web-ui-basic
+Server:nginx/1.8.0
+Set-Cookie:v=1
+X-Powered-By:PHP/5.4.30
+
+Request Headers
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, sdch
+Accept-Language:uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2
+Connection:keep-alive
+Cookie:_ga=GA1.2.1655453050.1477921311
+Host:cursor.education
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/53.0.2785.143 Chrome/53.0.2785.143 Safari/537.36
+
+
+Site: coggle.it
+
+Request URL:https://coggle.it/
+Request Method:GET
+Status Code:200  (from cache)
+Remote Address:54.229.41.157:443
+
+Response Headers
+access-control-allow-origin:*
+content-encoding:gzip
+content-type:text/html; charset=utf-8
+date:Wed, 26 Apr 2017 16:47:09 GMT
+etag:W/"BeuvM50wp7fWGp5KAsJi4g=="
+status:200
+vary:Accept-Encoding
+x-dns-prefetch-control:off
+x-download-options:noopen
+x-xss-protection:1; mode=block
+
+Request Headers
+Provisional headers are shown
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/53.0.2785.143 Chrome/53.0.2785.143 Safari/537.36
+
+
+Site: facebook.com
+
+Request URL:https://www.facebook.com/
+Request Method:GET
+Status Code:200
+Remote Address:31.13.92.36:443
+
+Response Headers
+cache-control:private, no-cache, no-store, must-revalidate
+content-encoding:br
+content-security-policy:default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data: 'self' *.m-freeway.com;style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+content-type:text/html
+date:Wed, 26 Apr 2017 16:59:48 GMT
+expires:Sat, 01 Jan 2000 00:00:00 GMT
+p3p:CP="Facebook has no P3P policy fb.me/p3p"
+pragma:no-cache
+public-key-pins-report-only:max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+set-cookie:wd=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1493225987; path=/; domain=.facebook.com
+status:200
+strict-transport-security:max-age=15552000; preload
+vary:Accept-Encoding
+x-content-type-options:nosniff
+x-fb-debug:G0bpOHkATIgbA0MCod5jxszZZV7F6acTZfwg8d1iizEAp49+q+zxpUHX/9YiQS+TE4P4OgG/a6VRSxrLMwsNvA==
+x-frame-options:DENY
+x-xss-protection:0
+
+Request Headers
+:authority:www.facebook.com
+:method:GET
+:path:/
+:scheme:https
+accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+accept-encoding:gzip, deflate, sdch, br
+accept-language:uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2
+cookie:sb=PbqYWB-Ld4vIKPv62---vpjP; pl=n; lu=ggC8yFWjepnRVqef32XEGU7w; datr=x2GGWGJCM-2wFJyMVRcao8h8; dats=1; c_user=100002630270600; xs=27%3AISiOzuCeZ1ZfHQ%3A2%3A1486404157%3A8070; fr=0kOenl6SJNjEbqJDS.AWUM3Gjwq0XOEsDg4-9KvNCWZ8E.BX-9dF.si.FkA.0.0.BZANF2.AWXjiLIH; presence=EDvF3EtimeF1493225878EuserFA21B02630270600A2EstateFDutF1493225878273CEchFDp_5f1B02630270600F4CC; act=1493225968491%2F68; wd=598x617
+upgrade-insecure-requests:1
+user-agent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/53.0.2785.143 Chrome/53.0.2785.143 Safari/537.36
+
+
+Site: asterisk.org
+
+Request URL:http://www.asterisk.org/
+Request Method:GET
+Status Code:304 Not Modified
+Remote Address:104.20.31.230:80
+
+Response Headers
+Access-Control-Allow-Origin:https://tribl.io
+Cache-Control:public, max-age=14400
+CF-Cache-Status:HIT
+CF-RAY:355b1b7b8296265a-FRA
+Connection:keep-alive
+Content-Language:en
+Date:Wed, 26 Apr 2017 17:02:01 GMT
+Etag:"1493127499.531-1"
+Expires:Wed, 26 Apr 2017 21:02:01 GMT
+Last-Modified:Tue, 25 Apr 2017 13:38:19 GMT
+Link:<http://www.asterisk.org/home>; rel="canonical",<http://www.asterisk.org/node/1>; rel="shortlink"
+Server:cloudflare-nginx
+Vary:Accept-Encoding
+X-Drupal-Cache:HIT
+X-Frame-Options:SAMEORIGIN
+X-Generator:Drupal 7 (http://drupal.org)
+X-Powered-By:PHP/5.3.10-1ubuntu3.26
+
+Request Headers
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, sdch
+Accept-Language:uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2
+Cache-Control:max-age=0
+Connection:keep-alive
+Cookie:__cfduid=de9de3aafb3aedd9345da2004ee6350ff1489434491; cf_clearance=73fc9b7ecb65c60e183c8525008c3e3a91b5767e-1493226082-1800; has_js=1; mrr=http://www.asterisk.org/; fpv=http://www.asterisk.org/; fvdt=1493226091; _gat=1; _ga=GA1.2.1647342241.1489436241; _mkto_trk=id:733-KSK-625&token:_mch-asterisk.org-1493226093262-96313; _ceg.s=op10ml; _ceg.u=op10ml
+Host:www.asterisk.org
+If-Modified-Since:Tue, 25 Apr 2017 13:38:19 GMT
+Referer:http://www.asterisk.org/
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/53.0.2785.143 Chrome/53.0.2785.143 Safari/537.36
+
+
+
+Опис тегів:
+
+GET / HTTP/1.1 - запит / (root page) і говоримо серверу що ми розуміємо HTTP ver. 1.1;
+Host: - доменне ім"я яке опитуєм
+Connection: keep-alive - опція для з"єднання
+User-Agent: Mozilla/5.0 - наш браузер розказує про себе
+Accept: text/html  - тип контенту який ми можемо прийняти
+Accept-Encoding: gzip, - список типів компрессії які браузер розуміє
+
+
+
+блін в мене нема часу на це, тому використовую свої минулі напрацювання:
+
+3. Difference betwen HTTP ver. 1.0 and 1.1
+HTTP 1.1 has allows to have persistent connection along many requests. HTTP 1.1 require HOST Header,
+and also have many differences and extensions.
+In POST user data passed in body of request.
+
+For example:
+POST /tags/demo_form_method_post.asp HTTP/1.1
+Host: www.w3schools.com
+Connection: keep-alive
+Content-Length: 25
+Cache-Control: max-age=0
+Origin: http://www.w3schools.com Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu
+Chromium/52.0.2743.116 Chrome/52.0.2743.116 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://www.w3schools.com/tags/tryit.asp?filename=tryhtml_form_method_post
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+Cookie: _gat=1; _ga=GA1.2.177570737.1473961693;
+ASPSESSIONIDQQDTBRDD=MBENONFBAGCPMOKOCOGCCDLL
+Key1=Value1&Key2=Value2
+Note: Binary data also allowed.
+And we can send data via GET request, in this case data sent as part of URL.
+For example:
+When we open URL: www.i.ua?name=value browser make request like:
+GET /?name=value HTTP/1.1
+Host: www.i.ua
+Method POST used when we submitting web-forms, upload files.
+
+
