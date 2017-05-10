@@ -5,7 +5,7 @@ body {
     color: #333
 }
 
-content {
+.content {
     width: 800px;
     padding: 20px 30px;
     background-color: #fff
@@ -14,4 +14,41 @@ content {
 h1 {
     font-size: 26px;
     line-height: 30px;
+    color: #333;
+    font-weight: normal;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 46px;
+    color: #333;
+    font-weight: normal;
+    font-style: italic;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+fixed {
+    position: fixed;
+    top: 20px;
+    right: 0px;
+    width: 200px;
+    padding: 20px 20px 20px 20px;
+    font-style: italic;
+    background-color: #666;
+    color: #fff;
+}
+
+puzzle {
+    background: url("img/v4/v4-watermark.jpg");
+    background:  no-repeat;
+    background-position:  0 0;
+    position: relative;
+    height: 514px;
+    width: 650px;
+    border: 5px solid #333;
+    margin: 0 auto;
+    
 }
