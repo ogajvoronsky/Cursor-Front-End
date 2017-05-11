@@ -42,9 +42,8 @@ body {
 }
 
 #puzzle {
-    background: url("img/v4/v4-watermark.jpg");
-    background:  no-repeat;
-    background-position:  0 0;
+    background: url("img/v4/v4-watermark.jpg") no-repeat 0 0;
+    background-position: 0px 0px;
     position: relative;
     height: 514px;
     width: 650px;
@@ -63,16 +62,16 @@ body {
 #img5 { left: 480px; top: 0; }
 #img6 { left: 0; top: 84px; }
 #img7 { left: 92px; top: 122px; }
-#img8 { left: 180px; top: 122px; }
-#img9 { left: 0; top: 0; }
-#img10 { left: 0; top: 0; }
-#img11 { left: 0; top: 0; }
-#img12 { left: 0; top: 0; }
-#img13 { left: 0; top: 0; }
-#img14 { left: 0; top: 0; }
-#img15 { left: 0; top: 0; }
-#img16 { left: 0; top: 0; }
-#img17 { left: 0; top: 0; }
-#img18 { left: 0; top: 0; }
-#img19 { left: 0; top: 0; }
-#img20 { left: 0; top: 0; }
+#img8 { left: 0px; top: 200px; }
+#img9 { left: 355px; top: 135px; }
+#img10 { left: 516px; top: 92px; }
+#img11 { left: 0; top: 258px; }
+#img12 { left: 128px; top: 216px; }
+#img13 { left: 217px; top: 254px; }
+#img14 { left: 388px; top: 214px; }
+#img15 { left: 479px; top: 257px; }
+#img16 { left: 0; top: 340px; }
+#img17 { left: 92px; top: 379px; }
+#img18 { left: 257px; top: 351px; }
+#img19 { left: 347px; top: 390px; }
+#img20 { left: 522px; top: 344px; }
