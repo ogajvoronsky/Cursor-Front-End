@@ -8,7 +8,8 @@ body {
 #content {
     width: 800px;
     padding: 20px 30px;
-    background-color: #fff
+    background-color: #fff;
+    margin: 0 auto;
 }
 
 .h1 {
@@ -49,29 +50,108 @@ body {
     width: 650px;
     border: 5px solid #333;
     margin: 0 auto;
-    
 }
 
 #puzzle img {
-  position: absolute;
+    position: absolute;
 }
-#img1 { left: 0; top 0; }
-#img2 { left: 127px; top: 0; }
-#img3 { left: 217px; top: 0; }
-#img4 { left: 397px; top: 0; }
-#img5 { left: 480px; top: 0; }
-#img6 { left: 0; top: 84px; }
-#img7 { left: 92px; top: 122px; }
-#img8 { left: 0px; top: 200px; }
-#img9 { left: 355px; top: 135px; }
-#img10 { left: 516px; top: 92px; }
-#img11 { left: 0; top: 258px; }
-#img12 { left: 128px; top: 216px; }
-#img13 { left: 217px; top: 254px; }
-#img14 { left: 388px; top: 214px; }
-#img15 { left: 479px; top: 257px; }
-#img16 { left: 0; top: 340px; }
-#img17 { left: 92px; top: 379px; }
-#img18 { left: 257px; top: 351px; }
-#img19 { left: 347px; top: 390px; }
-#img20 { left: 522px; top: 344px; }
+
+#img1 {
+    left: 0;
+    top 0;
+}
+
+#img2 {
+    left: 127px;
+    top: 0;
+}
+
+#img3 {
+    left: 217px;
+    top: 0;
+}
+
+#img4 {
+    left: 397px;
+    top: 0;
+}
+
+#img5 {
+    left: 480px;
+    top: 0;
+}
+
+#img6 {
+    left: 0;
+    top: 84px;
+}
+
+#img7 {
+    left: 92px;
+    top: 122px;
+}
+
+#img8 {
+    left: 0px;
+    top: 200px;
+}
+
+#img9 {
+    left: 355px;
+    top: 135px;
+}
+
+#img10 {
+    left: 516px;
+    top: 92px;
+}
+
+#img11 {
+    left: 0;
+    top: 258px;
+}
+
+#img12 {
+    left: 128px;
+    top: 216px;
+}
+
+#img13 {
+    left: 217px;
+    top: 254px;
+}
+
+#img14 {
+    left: 388px;
+    top: 214px;
+}
+
+#img15 {
+    left: 479px;
+    top: 257px;
+}
+
+#img16 {
+    left: 0;
+    top: 340px;
+}
+
+#img17 {
+    left: 92px;
+    top: 379px;
+}
+
+#img18 {
+    left: 257px;
+    top: 351px;
+}
+
+#img19 {
+    left: 347px;
+    top: 390px;
+}
+
+#img20 {
+    left: 522px;
+    top: 344px;
+}
