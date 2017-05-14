@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+p {
+  color: #008000;
+  font-size: 28px;
+  line-height: 21px;
+  background: #fff;
+  border: 1px solid #008000;
+}
+p span {
+  color: #f00;
+}
+p span > a {
+  color: #ff0;
+}
+.fancy p span > a {
+  color: #00f;
+}
+input,
+textarea {
+  border: 1px solid #008000;
+  margin: 20px;
+}
+textarea {
+  padding: 20px;
+}

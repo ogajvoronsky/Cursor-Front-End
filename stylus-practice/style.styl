@@ -1,0 +1,26 @@
+@import "reset"
+@import "variables"
+@import "mixins"
+p 
+    color green
+    font-size: default-size
+    line-height: 21px
+    background: white
+    border: fancy-border
+
+    span 
+        color red
+        & > a
+            color yellow
+            .fancy &
+                color: blue
+
+
+
+input
+    border fancy-border
+    margin 20px
+
+textarea
+    @extend input
+    padding-mixin()

@@ -1,0 +1,9 @@
+@media print and (min-width: 960px) {
+    * {
+        font-size: 18px;
+    }
+}
+
+* {
+    font-size: 10px;
+}
