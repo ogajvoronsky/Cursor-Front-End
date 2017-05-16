@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.nav-menu-items {
+  margin-left 50px;
+  
+}
+
+.logo {
+  height: 30px;
+  width: 80px;
+  margin-left: 8%;
+  vertical-align: middle;
+}
+
+
