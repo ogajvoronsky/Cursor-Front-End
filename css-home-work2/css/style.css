@@ -7,4 +7,30 @@
     height: 30px;
     width: auto;
     vertical-align: middle;
+    margin-left: 10%;
+    
+
+}
+
+.navbar-element {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    height: auto;   
+    margin-left: 10%   
+}
+
+.main-headline {
+    display: flex;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.main-headline-text {
+  align-content: center;
 }
