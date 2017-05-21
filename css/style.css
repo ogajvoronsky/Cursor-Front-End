@@ -8,5 +8,6 @@ p {
 }
 
 body {
-    background-color: lightgray;
+    /*background-color: lightgray;*/
+    background-image: url(bg-images/large-Image-for-Smart-phone-smart-home-article.jpg);
 }
