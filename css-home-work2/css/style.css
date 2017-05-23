@@ -43,3 +43,42 @@
 .main-headline-text > a {
     background-color: #5e95ed;  
 }
+
+.as-section {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 12%;
+  margin-right: 4%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-headline-4 {
+  padding: 30px;
+  background-color: lightskyblue;
+  display: flex;
+  justify-content: space-around;
+
+}
+.main-headline-4 img {
+  height: 90px;
+  width: auto;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+.main-headline-4 li {
+  list-style-type: circle!important;
+
+}
+
+.headline-5 h4 {
+  align: center;
+  color: red;
+}
+
+.headline-5 a {
+}
