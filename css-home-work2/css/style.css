@@ -75,13 +75,14 @@
 
 }
 
-.headline-5 > h4 {
+.section-5 > h4, .section-6 > h4 {
   text-align: center;
   margin-top: 30px;
   margin-bottom: 50px;
+  
 }
 
-.headline-5  h4 > span {
+h4 > span {
   color: mediumturquoise;
 }
 
@@ -98,13 +99,24 @@
 .h5-row  a {
   margin-left: 5%;
 }
-.h5-text {
+.article-text {
   margin-left: 1%;
   width: 30%;
 }
 
-.h5-text > h6 {
+.article-text > h6 {
   color: mediumaquamarine;
   font-size: 14px;
   font-weight: bold;
+}
+
+.section-content {
+  display flex;
+}
+
+
+.section-6 {
+  color: white;
+  background-color: black;
+  
 }
