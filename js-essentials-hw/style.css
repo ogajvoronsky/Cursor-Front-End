@@ -1,0 +1,18 @@
+h1 {}
+
+.content {
+    display: flex;
+}
+
+.part {
+    width: 50%;
+    height: auto;
+}
+
+.part>h3 {
+    margin-left: 10%;
+}
+
+input {
+    margin: 5px;
+}
