@@ -101,7 +101,7 @@ h4 > span {
 }
 .article-text {
   margin-left: 1%;
-  width: 30%;
+  width: 40%;
 }
 
 .article-text > h6 {
@@ -111,12 +111,17 @@ h4 > span {
 }
 
 .section-content {
-  display flex;
+  display: flex;
+  padding: 0 20% 0 20%;
+  align-content: space-between;
 }
-
 
 .section-6 {
   color: white;
   background-color: black;
   
 }
+
+
+
+
